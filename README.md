@@ -16,3 +16,5 @@ This resume is a product of my learning journey in web development, utilizing Ja
 As I continue to grow as a software developer, I plan to iterate on this resume, incorporating feedback and implementing new technologies and design principles.
 
 Feel free to explore the code and provide feedback. Thank you for visiting!
+
+[View My Resume](https://huitronfreddy.github.io/FreddyResumeV1/)

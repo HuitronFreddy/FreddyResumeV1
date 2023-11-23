@@ -84,3 +84,7 @@ nav {
 .navbar-nav .active {
   color: #cce5ff !important;
 }
+
+.badge-base {
+  margin-top: 20px; /* Adjust the spacing as needed */
+}
